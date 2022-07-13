@@ -1,0 +1,28 @@
+#central h1{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    color: yellow;
+}
+
+
+#central h2{
+    color: aliceblue;
+}
+
+#destinos h2{
+    color: yellow;
+}
+
+#destinos p{
+    color: aliceblue;
+    position: relative;
+}
+
+der {
+    background: black;
+}
+
+.contacto {
+    background-color: yellowgreen;
+}
